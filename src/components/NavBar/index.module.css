@@ -1,0 +1,8 @@
+.navbar {
+    background-color: #fff;
+    padding: .2rem;
+    margin: .2rem;
+    overflow: hidden;
+    height: 3rem;
+    z-index: 99;
+  }

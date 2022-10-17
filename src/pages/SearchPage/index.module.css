@@ -1,0 +1,22 @@
+.searchPage {
+  margin-top: 20px;
+  width: 100vw;
+}
+
+.searchCard {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+/* .searchCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.26);
+} */

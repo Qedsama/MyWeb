@@ -1,0 +1,7 @@
+@import "~antd/dist/antd.css";
+.App {
+  max-height: 50vh;
+}
+.App_body {
+  max-height:50vh;
+}

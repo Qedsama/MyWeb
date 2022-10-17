@@ -1,0 +1,11 @@
+.loginPage {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+  background-image: url(../../Assets/images/nggyu.gif);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
